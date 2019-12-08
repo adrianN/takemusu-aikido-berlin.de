@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  include(../macros/header)
+
+  <body>
+
+    include(../macros/nav)
+
+    <section id="content">
+      <h1>Angaben gemäß § 5 TMG</h1>
+      <p>Adrian Neumann<br>
+      Oberlandgarten 9<br>
+      12099 Berlin
+      adrian_neumann@gmx.de</p>
+    </section>
+
+  </body>
+
+</html>

@@ -14,6 +14,9 @@ include(../macros/nav)
 <p>Bei uns wir <a href="aikido.html">Iwama-Ryu Takemusu Aikido</a> nach den <a href="pruefungen.html">Prüfungsordnungen</a> der Takemusu Aikido Association trainiert. Interessenten können gern unverbindlich beim Training mitmachen. Details zu unsren Trainingszeiten finden sich unter <a href="training.html">Training</a>.</p>
 </section>
 
+<footer id="contentinfo" class="body" style="margin-top:10em">
+  <p style="text-align: right;font-size: 50%;color:#299995"><a href="impressum.html">Impressum</a></p>
+</footer><!-- /#contentinfo -->
 </body>
 
 </html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+include(../macros/header)
+
+<body>
+
+include(../macros/nav)
+
+<section id="content">
+
+<h1>Links</h1>
+
+<ul>
+  <li><a href="sportschule-rahn.de">Sportschule Rahn</a>. Hier trainieren wir</li>
+  <li>Weitere Berliner Sportschulen, in denen unser Stil unterrichtet wird
+    <ul>
+      <li><a href="https://www.randori-berlin.de/">Sportschule Randori</a></li>
+      <li><a href="https://www.sportschule-dento.de/">Sportschule Dento</a></li>
+      <li><a href="https://www.facebook.com/AikidoBerlinKarow/">Aikido Karow</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.takemusu.org/">Takemusu Aikido Association</a>. Der Dachverband unseres Stils.</li>
+</ul>
+
+</section>
+
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+include(../macros/header)
+
+<body>
+
+include(../macros/nav)
+
+<section id="content">
+  <h1>Prüfungsprogramme</h1>
+                    <p>Die Schülergrade (Kyu) zählt man in Japan traditionell absteigend, die Meistergrade (Dan) aufsteigend. Der 1. Kyu ist also der höchste Schülergrad, der 1. Dan hingegen der niedrigste Meistergrad.</p>
+                    <h1>Kinder</h1>
+                    <ul>
+                      <li><a href="programme/Kinder987.pdf">9. Kyu</a></li>
+                      <li><a href="programme/Kinder987.pdf">8. Kyu</a></li>
+                      <li><a href="programme/Kinder987.pdf">7. Kyu</a></li>
+                      <li><a href="programme/Kinder654.pdf">6. Kyu</a></li>
+                      <li><a href="programme/Kinder654.pdf">5. Kyu</a></li>
+                      <li><a href="programme/Kinder654.pdf">4. Kyu</a></li>
+                    </ul>
+                    <h1>Erwachsene</h1>
+                    <h2>Schülergrade</h2>
+                    <ul>
+                      <li><a href="programme/Erwachsene54.pdf">5. Kyu</a></li>
+                      <li><a href="programme/Erwachsene54.pdf">4. Kyu</a></li>
+                      <li><a href="programme/Erwachsene32.pdf">3. Kyu</a></li>
+                      <li><a href="programme/Erwachsene32.pdf">2. Kyu</a></li>
+                      <li><a href="programme/Erwachsene1.pdf">1. Kyu</a></li>
+                    </ul>
+                    <h2>Meistergrade</h2>
+                    <ul>
+                      <li><a href="programme/Shodan.pdf">1. Dan</a></li>
+                      <li><a href="programme/Nidan.pdf">2. Dan</a></li>
+                      <li><a href="programme/Sandan.pdf">3. Dan</a></li>
+                      <li><a href="programme/Yondan.pdf">4. Dan</a></li>
+                    </ul>
+</section>
+
+</body>
+
+</html>

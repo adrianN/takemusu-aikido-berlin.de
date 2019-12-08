@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+include(../macros/header)
+
+<body>
+include(../macros/nav)
+
+<section id="content">
+<h1>Iwama-Ryu Takemusu Aikido</h1>
+
+<p>Aikido ist eine relativ junge Kampfsportart, die etwa um 1920 von Morhei Ueshiba in Japan entwickelt wurde. Im Aikido wird ähnlich wie im Judo nicht mit Schlägen oder Tritten gekämpft, sondern Angriffe durch Hebel und Würfe abgewehrt. Aikido ist dabei eine rein auf Selbstverteidigung ausgelegte Kampfkunst, in der offensive Techniken praktisch gar nicht vorkommen. </p>
+<p>Ein wichtiger Grundsatz des Aikidos, der auch namensgebend war, ist das Anpassen an den Angreifer. Anders als zum Beispiel in Jiu-Jyutsu werden Angriffe nicht geblockt und mit einem Gegenangriff erwidert, sondern durch ein Anpassen an der Angriff wird dieser umgeleitet und der Schwung des Angreifers für eine Abwehrtechnik nutzbar gemacht.</p>
+<p>Aikido zeichnet sich besonders dadurch aus, neben den Körpertechniken auch Schwert- und Stockkampf trainiert wird. Die Techniken des Aikido sind stark von den Waffentechniken geprägt, vielfach werden die selben Bewegungen mit und ohne Waffen ausgeführt.</p>
+<p>Morhei Ueshibas hatte zahlreiche Schüler, die jeweils ihre eigenen Stilrichtungen entwickelt haben. Dabei sind die Unterschiede zum Teil groß. Aikido Stilrichtungen reichen von sehr sanften Bewegungen, die mit praxisbezogener Kampfkunst wenig zu tun haben und sich primär auf das Training des sogenannten <i>Ki</i> konzentrieren, bis hin zu härteren Stilen die auch bei wehrhafteren Gegnern effektiv sein können.</p><p>In unserer Schule wird das von Saito-sensei entwickelte Iwama Aikido gelehrt, das zu letzteren Stilrichtungen gehört. Von Saito kann man sich <a href="https://www.youtube.com/results?search_query=saito+sensei+aikido">Videos auf Youtube</a> ansehen, um einen Eindruck zu bekommen.</p>
+
+</section>
+</body>
+
+</html>
+

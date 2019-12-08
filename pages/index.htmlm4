@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+include(../macros/header)
+
+<body>
+
+include(../macros/nav)
+
+<section id="content">
+<h1>Takemusu Aikido in der Sportschule Rahn</h1>
+
+<p>Willkommen auf der Webseite der Aikido-Gruppe der Sportschule Rahn!</p>
+<p>Bei uns wir <a href="aikido.html">Iwama-Ryu Takemusu Aikido</a> nach den <a href="pruefungen.html">Prüfungsordnungen</a> der Takemusu Aikido Association trainiert. Interessenten können gern unverbindlich beim Training mitmachen. Details zu unsren Trainingszeiten finden sich unter <a href="training.html">Training</a>.</p>
+</section>
+
+</body>
+
+</html>

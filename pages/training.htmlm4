@@ -13,7 +13,7 @@ include(../macros/nav)
 
 <p>Wir trainieren zu folgenden Terminen<p>
 <table>
-<tr><td>Freitags</td><td>20:30-22:00</td></tr>
+  <tr><td>Freitags<sup>*</sup></td><td>20:30-22:00</td></tr>
 <tr><td>Samstags</td><td>11:00-12:30</td></tr>
 </table>
 
@@ -21,14 +21,15 @@ include(../macros/nav)
 
 <p>Bei uns lernt jeder von jedem, darum gibt es kein spezielles Anfängertraining. Brave Kinder und Jugendliche sind ebenso willkommen wie ältere Semester.</p>
 
-<p>Achtung: Manchmal fällt das Training aus, z.B. weil wir zu Besuch in einer anderen Sportschule sind. Vor dem ersten Mal am besten per E-Mail an adrian_neumann@gmx.de Bescheid geben </p>
+<p><sup>*</sup>Achtung: Freitags ist das Training nach Vereinbarung. Vor dem Ersten Besuch bitte per E-Mail an adrian_neumann@gmx.de Bescheid sagen.</p>
 <h2>Ausrüstung</h2>
 
 <p>Zum Ausprobieren reicht bequeme Sportkleidung, idealerweise trägt man einen Judoanzug, der nicht reisst wenn man ihn packt.</p><p>Für das Waffentraining sind in der Sportschule ausreichend Leihwaffen vorhanden. Wenn man das Aikido ernsthaft betreiben möchte, sollte man sich aber früher oder später ein eigenes Holzschwert (Bokken), einen Stock (Jo), und ein Holzmesser (Tanto) kaufen.</p><p>Ab dem 1. Dan wird bei uns in der Regel ein Hakama getragen, davor eine normale Judo-Hose.</p>
 
 <h2>Trainingsort</h2>
 
-<p>Wir trainieren in der <a href="http://sportschule-rahn.de/">Sportschule Rahn</a>. Probetraining ist umsonst, nach ein paar Mal muss man aber Mitglied der Sportschule werden. Details finden sich auf der Seite der Sportschule. Die Sportschule ist in der Nikolaistraße 13-15.</p>
+<p>Wir trainieren in der <a href="http://sportschule-rahn.de/">Sportschule Rahn</a>. Ein unverbindliches Probetraining ist kostenfrei, nach 3 Probestunden muss man aber Mitglied der Sportschule Rahn werden. Details finden sich auf der Seite der Sportschule.</p>
+<p>Die Sportschule ist in der Nikolaistraße 13-15.</p>
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=13.332847952842712%2C52.44317702251511%2C13.33716630935669%2C52.44524026213023&amp;layer=mapnik&amp;marker=52.44420701950493%2C13.335009813308716" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=52.44421&amp;mlon=13.33501#map=18/52.44421/13.33501">View Larger Map</a></small>
 

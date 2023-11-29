@@ -73,6 +73,18 @@ td {
     font-size:200%;
   }
 }
+.gallery-container {
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallery-item {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  margin: 10px;
+}
 @media screen and (max-height:50em) {
 	nav {
 		flex-wrap: nowrap;

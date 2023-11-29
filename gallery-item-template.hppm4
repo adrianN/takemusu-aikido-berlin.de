@@ -1,0 +1,67 @@
+<html>
+<style>
+.middle {
+  display:flex;
+  justify-content:center;
+height:100%;
+ background:url('img_src') center center no-repeat;
+ background-size:contain;
+}
+@media (min-aspect-ratio: 1/1) {
+.left {
+  float:left;
+  width:15%;
+  height:100%;
+  font-size:24px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.right {
+  float:right;
+  width:15%;
+  height:100%;
+  font-size:24px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.middle {
+  width:60%;
+  margin-left:20%;
+  margin-right:20%;
+}
+}
+@media (max-aspect-ratio: 1/1) {
+.middle {
+  clear:both;
+  width:100%;
+}
+.left {
+  float:left;
+  width:40%;
+  height: 15%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.right {
+  float:right;
+  width:40%;
+  height: 15%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+}
+
+</style>
+  
+<body>
+  <a href="backlink"><div class="left">&lt;</div></a>
+  <a href="forward_link"><div class="right">&gt;</div></a>
+<div class="middle">
+</div>
+</body>
+</html>

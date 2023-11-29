@@ -80,9 +80,6 @@ td {
   justify-content: center;
 }
 .gallery-item {
-  border-style: solid;
-  border-width: 2px;
-  border-color: black;
   margin: 10px;
 }
 @media screen and (max-height:50em) {
